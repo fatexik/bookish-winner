@@ -1,0 +1,13 @@
+#messages{
+    height: 50vh;
+    width: 40vw;
+    margin-top: 4vh;
+    margin-left:5vw ;
+}
+.container{
+    height: 80vh;
+    width: 50vw;
+    border-style: solid;
+    background-color: chartreuse;
+    margin-left: 20vw;
+}
